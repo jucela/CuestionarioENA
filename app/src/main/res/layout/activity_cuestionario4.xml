@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pe.gob.inei.cuestionarioena.Cuestionario4Activity">
+    <include layout="@layout/toolbar_layout"
+        android:id="@+id/toolbar_cuestionario2"/>
+    <ScrollView
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="@dimen/layout_margin20dp"
+        android:paddingRight="@dimen/layout_margin20dp">
+    </ScrollView>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:paddingLeft="@dimen/layout_margin10dp"
+        android:paddingRight="@dimen/layout_margin10dp"
+        android:background="@color/colorPrimary">
+        <Button
+            android:id="@+id/btnAnterior_cuestionario2"
+            android:layout_gravity="center|left"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="anterior"
+            android:visibility="gone"
+            android:theme="@style/RaisedButtonDark"/>
+        <Button
+            android:id="@+id/btnSiguiente_cuestionario2"
+            android:layout_gravity="center|right"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="siguiente"
+            android:theme="@style/RaisedButtonDark"/>
+    </LinearLayout>
+</LinearLayout>

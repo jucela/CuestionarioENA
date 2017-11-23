@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\74a01562df94951f77fcf7b2756e8166\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\f1a31615d9cbb6350ced607b1b84b12e\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:1-90:12
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:5:5-88:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\74a01562df94951f77fcf7b2756e8166\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\74a01562df94951f77fcf7b2756e8166\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:9:9-50
+	android:icon
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:11:9-40
+activity#pe.gob.inei.cuestionarioena.SplashActivity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:14:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:13:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:18:27-74
+activity#pe.gob.inei.cuestionarioena.LoginActivity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:21:9-23:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:23:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:22:13-42
+activity#pe.gob.inei.cuestionarioena.MenuActivity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:27:13-50
+	android:parentActivityName
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:25:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:28:13-30:50
+	android:value
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:30:17-47
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:29:17-63
+activity#pe.gob.inei.cuestionarioena.Cuestionario1Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:35:13-50
+	android:parentActivityName
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:33:13-50
+activity#pe.gob.inei.cuestionarioena.Cuestionario2Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:40:9-47:20
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:43:13-50
+	android:parentActivityName
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:41:13-50
+activity#pe.gob.inei.cuestionarioena.Cuestionario3Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:48:9-50:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:50:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:49:13-50
+activity#pe.gob.inei.cuestionarioena.Eval1Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:51:9-53:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:53:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:52:13-42
+activity#pe.gob.inei.cuestionarioena.Eval2Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:54:9-56:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:56:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:55:13-42
+activity#pe.gob.inei.cuestionarioena.Cuestionario4Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:57:9-59:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:59:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:58:13-50
+activity#pe.gob.inei.cuestionarioena.Cuestionario5Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:60:9-62:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:62:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:61:13-50
+activity#pe.gob.inei.cuestionarioena.Cuestionario6Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:63:9-65:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:65:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:64:13-50
+activity#pe.gob.inei.cuestionarioena.Cuestionario7Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:66:9-68:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:68:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:67:13-50
+activity#pe.gob.inei.cuestionarioena.Eval3Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:69:9-71:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:71:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:70:13-42
+activity#pe.gob.inei.cuestionarioena.Eval4Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:72:9-74:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:74:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:73:13-42
+activity#pe.gob.inei.cuestionarioena.Eval5Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:75:9-78:47
+	android:label
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:77:13-57
+	android:theme
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:76:13-42
+activity#pe.gob.inei.cuestionarioena.Eval6Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:79:9-82:47
+	android:label
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:81:13-57
+	android:theme
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:80:13-42
+activity#pe.gob.inei.cuestionarioena.Eval7Activity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:83:9-85:53
+	android:screenOrientation
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:85:13-50
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:84:13-42
+activity#pe.gob.inei.cuestionarioena.EvalFinalActivity
+ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:86:9-55
+	android:name
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml:86:19-52
+uses-sdk
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\74a01562df94951f77fcf7b2756e8166\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\74a01562df94951f77fcf7b2756e8166\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\f1a31615d9cbb6350ced607b1b84b12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\f1a31615d9cbb6350ced607b1b84b12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyecto_ENA\ENA_APK\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7a8b2f0b98e4cdd4792ac6f7f2d36335\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\6feee927582566d1ad2747ad7be8e642\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\5b970d2748aa0e71b47f8955daaee147\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\f1a31615d9cbb6350ced607b1b84b12e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\f1a31615d9cbb6350ced607b1b84b12e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\915dace827701b42c5153102eeb04e97\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\b7f7f9589ffac4352c7eab0915f0d72a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\96caf5e4d6cdc0aca81488aa53140c85\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\7cf2f0187f75d7431fef887d95699c05\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\9832308cec535149134356a79b0965f4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d665fbe254330b259a23b293e42affb6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\1bca6675d13b3ab0dbece9e6871db225\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\87f034a9248f90e27587459dffb42a60\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\89ac43389f08ef03a7ea41a10965f177\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\jlavado\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\67182136cdb79c3b45c36063cae4c94d\AndroidManifest.xml:26:9-47

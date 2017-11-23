@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\CuestionarioENA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695bcfa383af4c06a082f905a995f550c6f71e5">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba7f1b1a23bf3061ea06b6fc1690989cda8c269d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_aac660c0dfc2c67efb3fdb873415d6610c370f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\a7446acd06ce1830d30b083eb83a5c7aa37dcd2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a65d9d2eff3c1957a9c00c8610b866a22d6f31d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\ff0bfbbc13cbed3bc2fc50c30ee4a80bf134c7b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_154a9790a5b218493fe16b9fbd6035050bbefe4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_931d4edba48ce6b399467379a5fcdc32e934eaa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\765c0cb7213be5d407548504bdd6e4130b64e959\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3977993092c4f08d1f1ca53a15057eb321f3ccf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\cab61790c15a5f45a3a865d46cde0817386de9d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea2a1b9d06cbe5d2b85cca0293cc4fed7204da3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\8e0f8e34bd7ba366af11b789e7beaf89299d64e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba115be52bca71e19fa4d8a27c7b43a82f8c0ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\d02a5b4e15e2666cefa831ebf3e082eb254bcf29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72846ea84b611ed343b4a2cc86100872400f4c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\397be0df1acbb5aa69e145ad31d0e4f008254262\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_187621096cca4650918f85d04e2b62aad5875342\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\142772adec98c745f136a3bf31178a3563da423b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea0f4aca184bcdb529d75b162a9e5f6d9559e924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\d1ac24c360fb95bd15621c58d91237beb0d0bc52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d7d5cb7b9ff76f4b8360a0a56b94c857cf00a3e">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36c756d570e75fd0f1840520f03353ee973a9fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\f21336a5f2e221a4081833e5240a5627663db508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ea462c15924a9b6c4c4ec8df63a380a286b05b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\01e8be7e5832aaf8562bf9bd996ecbcea114369b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_494a228a7e198374bfc46e3729a4dd93b928f081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\bc1c0be91795947aa046fff7a8872657adf54f14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f6b8ca0be65944deef8e208f07c62608881f59b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CuestionarioENA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c91f33e6d6bda554b8d023f46af0391e4cc148a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\560ad4ab5723cf91e16f3140c6e793f9600663ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d64ff6f8bf57259106ef56c86f59d374daef5fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\f3aa6f2bb745b240ae1ef80acf2cdd0211cf3cb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab84711814f0a2ae73dfaa2ddc7055d589492afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otin040\.android\build-cache\67882e9138bbbd08113492c95c604831d25a004c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\CuestionarioENA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_129790806b6bec353453b799e9dfdfe2d84595f3\classes.dex" />
+    </item>
+
+</items>

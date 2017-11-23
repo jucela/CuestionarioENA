@@ -1,0 +1,4 @@
+#Wed Nov 22 18:03:01 COT 2017
+base.0=D\:\\Proyecto_ENA\\CuestionarioENA\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

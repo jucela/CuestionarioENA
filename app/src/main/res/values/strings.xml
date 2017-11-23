@@ -1,0 +1,703 @@
+<resources>
+
+    <string name="titulo_encuesta">ENCUESTA NACIONAL AGROPECUARIA 2017</string>
+    <string name="titulo_curso">SEGUNDO CURSO DE CAPACITACION – REGION COSTA SELVA Y ESTRATO ESPECIAL</string>
+    <string name="app_name">ENA Cuestionario 2017</string>
+
+    <!--MODULO-->
+    <string name="control01_nombre">PRIMER CONTROL DE LECTURA</string>
+    <string name="control02_nombre">SEGUNDO CONTROL DE LECTURA</string>
+    <string name="control03_nombre">TERCER CONTROL DE LECTURA</string>
+    <string name="control04_nombre">CUARTO CONTROL DE LECTURA</string>
+    <string name="control05_nombre">QUINTO CONTROL DE LECTURA</string>
+    <string name="control06_nombre">SEXTO CONTROL DE LECTURA</string>
+    <string name="control07_nombre">SEPTIMO CONTROL DE LECTURA</string>
+    <string name="eval01_nombre">PRIMERA EVALUACION</string>
+    <string name="eval02_nombre">SEGUNDA EVALUACION</string>
+    <string name="eval03_nombre">TERCERA EVALUACION</string>
+    <string name="eval04_nombre">CUARTA EVALUACION</string>
+    <string name="eval05_nombre">QUINTA EVALUACION</string>
+    <string name="eval06_nombre">SEXTA EVALUACION</string>
+    <string name="eval07_nombre">SEPTIMA EVALUACION</string>
+    <string name="eval08_nombre">EVALUACION FINAL</string>
+
+
+    <!-- CONTROL 01 -->
+    <string name="control01_p01">1.¿Cuál de las siguientes alternativas corresponde a la definición de objetivo general de la encuesta?  (2 puntos)</string>
+    <string name="control01_p01_op01">a)	Disponer de información estadística que permita caracterizar a las pequeñas, medianas y grandes unidades agropecuarias del país.</string>
+    <string name="control01_p01_op02">b)	Obtener el porcentaje de productores/as agropecuarios/as que aplican riego tecnificado</string>
+    <string name="control01_p01_op03">c)	Estimar la superficie agrícola con riego tecnificado</string>
+    <string name="control01_p01_op04">d)	Obtener una línea de base para medir el incremento porcentual de la utilidad bruta por ventas de los pequeños/as productores/as.</string>
+    <string name="control01_p01_op05">e)	N.A.</string>
+
+    <string name="control01_p02">2.	¿Cuál de las siguientes alternativas no corresponde al resultado de la encuesta?(2 puntos)</string>
+    <string name="control01_p02_op01">a) No se inició la entrevista</string>
+    <string name="control01_p02_op02">b) Fuera del distrito</string>
+    <string name="control01_p02_op03">c) Sin actividad</string>
+    <string name="control01_p02_op04">d) Solo fábrica</string>
+    <string name="control01_p02_op05">e) No ubicada</string>
+
+    <string name="control01_p03">3. Relaciona las siguientes definiciones:</string>
+    <string name="control01_p03_sub01">a) “Listado de unidades agropecuarias seleccionadas en el conglomerado No Panel”</string>
+    <string name="control01_p03_sub02">b) “Listado de unidades agropecuarias del conglomerado seleccionado”</string>
+    <string name="control01_p03_sub03">c) Es el documento que contiene las imágenes representativas de las preguntas de los principales capítulos desde el 100 hasta el 1200.</string>
+    <string name="control01_p03_sub04">d) Es el documento que contiene los casos representativos de los principales capítulos desde el 100 hasta el 1200.</string>
+
+    <string name="control01_p03_op01">Doc.08.07 Anexo A</string>
+    <string name="control01_p03_op02">Doc.03.03</string>
+    <string name="control01_p03_op03">Doc.08.25 Anexo B</string>
+    <string name="control01_p03_op04">Doc.03.03.01</string>
+
+    <string name="control01_p04">4. Seleccione VERDADERO ó FALSO según corresponda:(12 puntos)</string>
+    <string name="control01_p04_sub01">El coordinador/a departamental depende del supervisor/a nacional, es responsable de organizar, dirigir, supervisar, evaluar y coordinar la ejecución de la encuesta en lo que respecta al trabajo de campo y la consistencia básica de la información.</string>
+    <string name="control01_p04_sub02">El informante es la persona que proporciona los datos requeridos para la encuesta.</string>
+    <string name="control01_p04_sub03">Antes de iniciar la operación de campo el encuestador/a debe reconocer, ubicar e identificar los límites del conglomerado asignado con ayuda de los documentos cartográficos y listados.</string>
+    <string name="control01_p04_sub04">No se consideran unidades agropecuarias cuando una de las parcelas fue dada en concesión para la extracción de productos naturales, ya sean vegetales (castaña, uña de gato) o animales de monte.</string>
+    <string name="control01_p04_sub05">La unidad agropecuaria está fusionada cuando una de sus parcelas es absorbida por otra unidad agropecuaria seleccionada.</string>
+    <string name="control01_p04_sub06">Encuestador, en caso de ausencia del productor/a agropecuario/a entregue el Doc.08.12 “citación a los productores/as agropecuarios/as ausentes”, indicando fecha y hora en que retornará a la unidad agropecuaria.</string>
+    <string name="control01_p04_sub07">El productor/a agropecuario/a generalmente debe ser entrevistado en la unidad agropecuaria.</string>
+    <string name="control01_p04_sub08">Para cargar la tablet se debe conectar mediante el cable OTG, al cargador.</string>
+    <string name="control01_p04_sub09">Durante la operación de campo el encuestador/a debe reconocer, ubicar e identificar los límites del conglomerado asignado con ayuda de los documentos cartográficos y listados.</string>
+    <string name="control01_p04_sub10">Dentro del menú de configuración de la tablet, los ajustes más utilizados son: Aplicaciones, ubicación y fecha y hora.</string>
+    <string name="control01_p04_sub11">La unidad de observación del estudio de la Encuesta Nacional Agropecuaria es el productor/a agropecuario/a.</string>
+    <string name="control01_p04_sub12">La Encuesta Nacional Agropecuaria dirigida a empresas y grandes productores/as, comprende las unidades agropecuarias del país que son empresas agrícolas, empresas pecuarias y excepcionalmente las personas naturales con 50,0 hectáreas a más.</string>
+
+
+    <!-- CONTROL 02 -->
+    <string name="control02_p01">1.	Anote, dentro del paréntesis verdadero “V” o falso “F” según corresponda:(13 Puntos)</string>
+    <string name="control02_p01_sub01"> Dedicarse a la actividad agropecuaria de manera independiente, es cuando una persona se dedica a las actividades agrícolas y/o pecuarias tomando la responsabilidad total de la inversión y asumiendo las consecuencias de sus decisiones.</string>
+    <string name="control02_p01_sub02"> No realizó actividad, es aquella unidad agropecuaria que por un periodo mayor a los últimos 12 meses no está siendo trabajada por un productor/a agropecuario/a pero en cualquier momento puede ser trabajada.</string>
+    <string name="control02_p01_sub03"> Unidad agropecuaria sin tierra, cuando la unidad agropecuaria posee tierras no agrícolas, caso que se da con los productores/as pecuarios/as.</string>
+    <string name="control02_p01_sub04"> Cedidas por terceros sin contrapartida, corresponde al caso en que el productor/a utiliza terrenos de un tercero, sin mediar algún tipo de contraprestación.</string>
+    <string name="control02_p01_sub05"> Se llama cultivo transitorio, a los cultivos cuyo ciclo vegetativo o de crecimiento (para obtener una cosecha) es menor de un año y al terminar de cosechar se destruyen totalmente las plantas.</string>
+    <string name="control02_p01_sub06"> El limón ácido, plátano y lúcumo son ejemplos de cultivos permanentes de cosecha estacional.</string>
+    <string name="control02_p01_sub07"> Si el productor/a manifiesta que la fuente principal de agua que empleó en sus cultivos procede de un puquial u ojo de agua, seleccione la alternativa Pozo/agua subterránea.</string>
+    <string name="control02_p01_sub08"> El sistema de riego por aspersión artesanal es considerado como riego por gravedad.</string>
+    <string name="control02_p01_sub09"> El riego por multicompuertas también conocido como riego por caudal intermitente, riego por impulsos o pulsos.</string>
+    <string name="control02_p01_sub10"> La producción perdida o afectada, es la parte de la producción que se pierde en post cosecha, por el manipuleo del producto, sobremaduración, etc.</string>
+    <string name="control02_p01_sub11"> El comerciante mayorista es quien vende directamente al consumidor final.</string>
+    <string name="control02_p01_sub12"> Suelo pobre/infértil, es cuando el suelo está muy desgastado y pierde su capacidad de producción, se le conoce como suelo pobre, cansado o infértil.</string>
+    <string name="control02_p01_sub13"> El riego por aspersión es el sistema que posibilita aplicar el agua en forma de lluvia fina y suave</string>
+
+    <string name="control02_p02">2.	Relaciona las siguientes definiciones:(7 Puntos)</string>
+    <string name="control02_p02_sub01">A) Es un sistema de tuberías que consiste en distribuir el agua de forma continua a través de poros, lo que da lugar a la formación de una franja continua de humedad, que las hace muy indicadas para el riego de cultivos en línea.</string>
+    <string name="control02_p02_sub02">B) Cultivos cosechados por lo general en un periodo determinado del año, en estos casos el periodo de cosecha suele durar más de un mes.</string>
+    <string name="control02_p02_sub03">C) Consiste en el uso de tubos de plástico con forma curvada adaptada al tamaño del surco, por los cuales se vierte el agua sin necesidad de abrir zanjas.</string>
+    <string name="control02_p02_sub04">D) Periodo de tiempo a lo largo de un año, que comprende desde la siembra del cultivo (pasando por el crecimiento, producción de flores y frutos) hasta la cosecha o recolección del mismo.</string>
+    <string name="control02_p02_sub05">E) Consiste en la determinación de la siembra o plantación de los cultivos en la unidad agropecuaria, en función a ciertos criterios como; características del suelo (profundidad y tipo), clima de la zona, disponibilidad de agua e inclinación de la parcela.</string>
+    <string name="control02_p02_sub06">F) Cultivo que es cosechado durante todo el año con una frecuencia constante, es decir semanalmente, quincenalmente, mensualmente, etc.</string>
+    <string name="control02_p02_sub07">G) Es la parte de la producción que se destina a la transformación primaria, ejemplo: chuño, vino, mermelada.</string>
+
+    <string name="control02_p02_op01">Orientación de siembras</string>
+    <string name="control02_p02_op02">Cultivo permanente de cosecha continua</string>
+    <string name="control02_p02_op03">Periodo vegetativo</string>
+    <string name="control02_p02_op04">Derivados</string>
+    <string name="control02_p02_op05">Sifones</string>
+    <string name="control02_p02_op06">Cultivo permanente de cosecha estacional</string>
+    <string name="control02_p02_op07">Exudación</string>
+
+    <!-- CONTROL 03 -->
+    <string name="control03_p01">1. Seleccionar (V) verdadero o (F) falso en las preguntas siguientes: (15 puntos)</string>
+    <string name="control03_p01_sub01">1) Las buenas prácticas agrícolas condicionadas son aquellas actividades que se aplican a la producción, procesamiento y transporte de los alimentos agrícolas destinados a asegurar la inocuidad del producto de las cosechas, el cuidado de la salud humana, la protección del medio ambiente y mejorar las condiciones de trabajo de las personas que laboran en la actividad agrícola. No implican un previo cumplimiento de uso de determinados insumos agrícolas.</string>
+    <string name="control03_p01_sub02">2) Subproductos agrícolas son los residuos de los cultivos que se generan durante la producción agrícola como chala de maíz, paja de trigo, etc.</string>
+    <string name="control03_p01_sub03">3) Gasto en fertilizantes, es el gasto efectuado por la compra de productos orgánicos utilizados para la fertilización del suelo.</string>
+    <string name="control03_p01_sub04">4) El vivero es un establecimiento dedicado a la comercialización de semillas y otros productos agrarios.</string>
+    <string name="control03_p01_sub05">5) Derivados agrícolas son los productos agrícolas primarios transformados por el productor/a como chuño, morón, chochoca, jora, etc.</string>
+    <string name="control03_p01_sub06">6) Mezclar la tierra con materia orgánica, es la práctica orientada a enriquecer el suelo, aumentando el contenido de materia orgánica existente en nuestros suelos con el fin de suplir el déficit nutricional que los mismos presentan. </string>
+    <string name="control03_p01_sub07">7) Desterronar o desmenuzar la tierra es la acción de deshacer o desmoronar los terrones para facilitar el crecimiento y penetración de las raíces en el suelo, así como la distribución del agua.</string>
+    <string name="control03_p01_sub08">8)Determinar la cantidad de agua que necesita su cultivo antes de iniciar la campaña agrícola, consiste en regar de acuerdo a las necesidades de cada cultivo, con la finalidad de reponer el agua consumida por el cultivo, evaporada, infiltrada, etc., puesto que no todos los cultivos requieren la misma cantidad de agua.</string>
+    <string name="control03_p01_sub09">9)El control biológico consiste en la utilización de métodos de represión que aprovechan las reacciones del comportamiento de los insectos.</string>
+    <string name="control03_p01_sub10">10) Especialista, es la persona que posee los conocimientos técnicos necesarios en materia agrícola, para determinar la aplicación de abonos, fertilizantes y/o plaguicidas, en determinada superficie y cultivo.</string>
+    <string name="control03_p01_sub11">11) Control mecánico, consiste en la utilización de las prácticas agrícolas ordinarias, o algunas modificaciones de ellas, con el propósito de contribuir a prevenir los ataques de los insectos.</string>
+    <string name="control03_p01_sub12">12) La evaluación de plagas, consiste en monitorear la población de insectos fuera del campo de cultivo.</string>
+    <string name="control03_p01_sub13">13) El periodo de carencia, es el número máximo de días que debe transcurrir entre la aplicación del plaguicida y la cosecha del producto.</string>
+    <string name="control03_p01_sub14">14)La aplicación de las Buenas prácticas agrícolas tiene periodo de referencia, está limitada a que el productor/a considere que la realiza cada vez que lo requiere. </string>
+    <string name="control03_p01_sub15">15) El plaguicida químico, es la sustancia destinada básicamente a matar, repeler, proteger, atraer, regular o interrumpir el crecimiento de seres vivos considerados plagas.</string>
+
+    <string name="control03_p02">2. Relaciona las siguientes definiciones: (5 puntos)</string>
+    <string name="control03_p02_sub01">1) Consiste en construir plataformas o escalones anchos transversales a la pendiente del terreno.</string>
+    <string name="control03_p02_sub02">2) Consiste en devolver las características y la estructura física del andén, cuya estructura data de la época incaica.</string>
+    <string name="control03_p02_sub03">3) Comprende las técnicas más antiguas y simples de la lucha contra los insectos.</string>
+    <string name="control03_p02_sub04">4) Consiste en la utilización de métodos de represión que aprovechan las reacciones del comportamiento de los insectos.</string>
+    <string name="control03_p02_sub05">5) Tiene por objeto dar al terreno un declive determinado para facilitar el manejo del agua de riego dentro del campo de cultivo.</string>
+
+    <string name="control03_p02_op01">1. Control mecánico</string>
+    <string name="control03_p02_op02">2. Control etológico</string>
+    <string name="control03_p02_op03">3. Construir terrazas</string>
+    <string name="control03_p02_op04">4. Nivelar el campo o terreno</string>
+    <string name="control03_p02_op05">5. Rehabilitación de andenes</string>
+
+    <!-- CONTROL 04-->
+    <string name="control04_p01">1. Relaciona las siguientes definiciones: (5 puntos)</string>
+    <string name="control04_p01_sub01">1)Es el proceso de control que permite verificar el cumplimiento de la Norma de Producción Orgánica que corresponda según el destino del producto, para garantizar la calidad orgánica de las producciones bajo certificación </string>
+    <string name="control04_p01_sub02">2) Es una certificación de producto, también es un sello de garantía que funciona como distintivo positivo ofreciendo al consumidor seguridad acerca de los valores éticos del producto.</string>
+    <string name="control04_p01_sub03">3) Es un conjunto de normas agrícolas reconocidas internacionalmente y dedicadas a las Buenas Prácticas de Agricultura.</string>
+    <string name="control04_p01_sub04">4)Está más enfocado al cuidado del medio ambiente, dando énfasis a temas relacionados con bienestar laboral, además de garantizar que los productos hortofrutícolas con los que abastece sean aptos para el consumo.</string>
+    <string name="control04_p01_sub05">5) Son una herramienta básica para la obtención de productos seguros para el consumo humano, que se centralizan en la higiene y forma de manipulación.</string>
+
+    <string name="control04_p01_op01">1. Buenas prácticas agrícolas (Global Gap)</string>
+    <string name="control04_p01_op02">2. Certificación Orgánica</string>
+    <string name="control04_p01_op03">3. Comercio justo (Fair trade)</string>
+    <string name="control04_p01_op04">4. Buenas Prácticas de Manufacturas</string>
+    <string name="control04_p01_op05">5. TNC (Tesco Natural Choice)</string>
+
+    <string name="control04_p02">2.	Para cada una de las afirmaciones siguientes marque Verdadero (V) o Falso (F): (15 puntos)</string>
+    <string name="control04_p02_sub01">1) Si el productor/a manifiesta que compra especies animales (vacunos, ovinos, caprinos y porcinos) solo para engordarlos y luego venderlos, éstos deben ser considerados en el cuestionario electrónico Doc.01.03.</string>
+    <string name="control04_p02_sub02">2) Recibió en trueque, es la cantidad de animales de cualquier especie que recibió el productor/a por el intercambio con un producto, en el periodo de los últimos 12 meses. </string>
+    <string name="control04_p02_sub03">3) Agroindustria es cuando el animal beneficiado (carne) o en pie fue vendido fuera del país.</string>
+    <string name="control04_p02_sub04">4) Animales criollos, es el ganado que no está adaptado a las condiciones del medio ambiente de nuestro país, tales como alturas, falta de pasturas, entre otros.</string>
+    <string name="control04_p02_sub05">5) La enfermedad de "antrax", conocido como “pierna negra” o “gangrena enfisematosa”.   </string>
+    <string name="control04_p02_sub06">6) la vacuna “Triple aviar”  protege contra newcastle, gumboro y viruela. </string>
+    <string name="control04_p02_sub07">7) Subproducto pecuario, se refiere al producto proveniente directamente de determinadas especies animales de crianza, como son la leche (vacunos y caprinos), lana (ovinos), fibra (llama y alpaca) y huevos (gallinas).</string>
+    <string name="control04_p02_sub08">8)Los ovinos son mamíferos criados por los productores/as para la obtención de lana, fibra y carne </string>
+    <string name="control04_p02_sub09">9)Tener un área de desinfección previa al ingreso de las instalaciones pecuarias consiste en la existencia de un espacio físico destinado para realizar el baño o desinfección de las manos y de los pies (botas, zapatos, etc.).</string>
+    <string name="control04_p02_sub10">10)Aislar a un animal enfermo de los demás es la práctica que consiste en separar al animal enfermo en un ambiente sin contacto con los otros animales sanos, para evitar el contagio.</string>
+    <string name="control04_p02_sub11">11) La henificación consiste en el cortado y picado de la producción (maíz chala, cebada forrajera, etc.) la cual es conservada en estado húmedo y almacenada de tal forma que no pierda la humedad.</string>
+    <string name="control04_p02_sub12">12) Cruzamiento, es una técnica que implica la reproducción sexual de dos individuos de razas diferentes de una población animal y dan como resultado una nueva prole que se queda con parte del material genético de cada progenitor.</string>
+    <string name="control04_p02_sub13">13) Periodo de retiro corresponde a los procedimientos y medios que son empleados para el alivio de las enfermedades o síntomas, por un periodo de tiempo determinado..</string>
+    <string name="control04_p02_sub14">14)La extracción de gas y petróleo están consideradas como actividades que ponen en riesgo a la producción agrícola y/o pecuaria.</string>
+    <string name="control04_p02_sub15">15) La certificación son los diplomas o cartas de reconocimientos que productores/as manifiestan haber recibido por parte de la Municipalidad o Gobierno Regional por la calidad de sus productos.</string>
+
+    <!-- CONTROL 05-->
+    <string name="control05_p01">1. Relacionar los conceptos descritos con las alternativas (5 puntos)</string>
+    <string name="control05_p01_sub01">1) Comprende el conocimiento del uso adecuado del sistema de riego que posee el productor/a en función a la cantidad y momento en que recibe el recurso hídrico, el tipo de sus cultivos y las características del terreno. No incluye el riego por secano.      </string>
+    <string name="control05_p01_sub02">2) Parámetros para la formulación de valores límite, valores recomendados u otros valores medibles relacionados con el agua para riego. Está determinada por la concentración total de sales, por la cantidad de sodio, la concentración de boro y de bicarbonatos en relación al Ca y Mg.</string>
+    <string name="control05_p01_sub03">3) Comprende el conocimiento del uso adecuado del recurso hídrico a través de acciones tales como; regar a determinada hora, controlar la cantidad de agua para los cultivos e implementar determinada infraestructura como son las mangas, sifones y/o mantas.   </string>
+    <string name="control05_p01_sub04">4) Conocimiento sobre la existencia y ventajas de los sistemas de riego asistido o tecnificado que existen, tales como mangas, sifones, multicompuertas, aspersión, microaspersión, goteo, etc.   </string>
+    <string name="control05_p01_sub05">5)Conjunto de medidas practicadas en un determinado local o unidad de producción con la finalidad de prevenir el ingreso o transmisión de enfermedades.</string>
+
+    <string name="control05_p01_op01">1. Prácticas de bioseguridad</string>
+    <string name="control05_p01_op02">2. Operación y mantenimiento de sistemas de riego</string>
+    <string name="control05_p01_op03">3. Estándares de calidad de agua para riego</string>
+    <string name="control05_p01_op04">4. Sistemas de riego tecnificado</string>
+    <string name="control05_p01_op05">5. Prácticas adecuadas de riego</string>
+
+    <string name="control05_p02">2.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F): (15 puntos)</string>
+    <string name="control05_p02_sub01">1) Servicios de extensión agraria son actividades especializadas inmersas en un proceso de educación formal sobre temas agrarios, dirigida a productores/as para capacitarlos y/o brindarles asistencia técnica y/o acceso a la información agropecuaria, orientadas a mejorar la producción, productividad y rentabilidad de los agro negocios.</string>
+    <string name="control05_p02_sub02">2) Prácticas adecuadas de riego, comprende el conocimiento del uso adecuado del recurso hídrico a través de acciones tales como: regar a determinada hora, controlar la cantidad de agua para los cultivos e implementar determinada infraestructura como son las mangas, sifones y/o mantas.</string>
+    <string name="control05_p02_sub03">3) Si el productor/a agropecuario/a pertenece a más de 3 organizaciones, solo registre las 3 que el productor/a considere como las más importantes.</string>
+    <string name="control05_p02_sub04">4) Ruedas de negocios son grandes eventos de exposición que se llevan a cabo para facilitar encuentros de negocios de expositores o empresas de distintos países.</string>
+    <string name="control05_p02_sub05">5) Centro de acopio o almacén para cosecha, son lugares especiales para almacenar granos y forrajes. </string>
+    <string name="control05_p02_sub06">6) Fermentadores, son recipientes o cajones de madera, con orificios en el fondo y a los lados para la salida de la baba o líquidos que se desprenden del mucílago del cacao. </string>
+    <string name="control05_p02_sub07">7) Si el productor/a solicitó una ampliación de un crédito, deberá ser considerado como nuevo crédito.</string>
+    <string name="control05_p02_sub08">8)El periodo de referencia del capítulo 700 son los últimos 3 años y los últimos 12 meses.</string>
+    <string name="control05_p02_sub09">9)Vacunas, es el monto gastado por curar a los animales de crianza contra determinadas enfermedades.</string>
+    <string name="control05_p02_sub10">10) Los pastos o productos procedentes de la unidad agropecuaria o cosecha anterior del productor/a, que sirvieron de alimento de los animales no deben ser valorizados a precios de mercado ni anotados como un gasto en dicho rubro.</string>
+    <string name="control05_p02_sub11">11) En la producción de gastos pecuarios incluir la compra de reproductores o animales mejorados.</string>
+    <string name="control05_p02_sub12">12) Tenga presente que, en las preguntas e ítems del capítulo 1000, se debe valorizar lo que el productor/a recibió como donación o regalo.</string>
+    <string name="control05_p02_sub13">13) Centro de acopio o almacén para cosecha, permite reducir el contenido de humedad de los granos hasta un nivel que impida el crecimiento de los hongos, de tal forma que preserve su aspecto, su calidad nutritiva y la viabilidad de la semilla. </string>
+    <string name="control05_p02_sub14">14)Todo pago realizado en especie por algún servicio o producto, debe ser valorizado a precios de mercado minorista y anotado como un gasto monetario. </string>
+    <string name="control05_p02_sub15">15) Agua de riego para sus cultivos, es el gasto realizado por el derecho de agua de regadío y agua potable.</string>
+
+    <!-- CONTROL 06 -->
+    <string name="control06_p01">1. Seleccionar (V) verdadero o (F) falso en las preguntas siguientes: (15 puntos)</string>
+    <string name="control06_p01_sub01">1) Se considera otros parientes al abuelo, padre y sobrino.</string>
+    <string name="control06_p01_sub02">2) Si el número de personas en el hogar es mayor a 12, registre solo hasta la persona Nº 12, el resto de personas regístrelas en observaciones del cuestionario electrónico Doc.01.03.</string>
+    <string name="control06_p01_sub03">3) Registre a los pensionistas que se encuentran en la vivienda (hasta 12 pensionistas como máximo), en el momento de la encuesta.</string>
+    <string name="control06_p01_sub04">4) "Padres o suegros/as", no considere en esta alternativa al padrastro o madrastra.</string>
+    <string name="control06_p01_sub05">5) Si el productor/a informa que tiene una sobrina, ahijada o prima, etc. que vive permanentemente en la vivienda, a la cual le paga en efectivo y/o en especie como trabajadora del hogar, en este caso no registre a esta persona.</string>
+    <string name="control06_p01_sub06">6) Si existe duda del sexo de las personas que tienen nombres usados para hombre y mujer. Ejemplo: José María, René, Jesús, Santos, etc., se deberá confirmar preguntando al productor/a. </string>
+    <string name="control06_p01_sub07">7) Si tiene más de 98 años, registre 99, es decir si declara que tiene 101 años, registre 99 en el recuadro correspondiente y en observaciones registre la edad real.</string>
+    <string name="control06_p01_sub08">8)Las personas que estudian en centros de educación especial, serán consideradas en la alternativa "sin nivel".</string>
+    <string name="control06_p01_sub09">9)La limitación en el habla solo se refiere a que una persona no pueda hablar.</string>
+    <string name="control06_p01_sub10">10) Tenga presente que discapacidad es lo mismo que enfermedad.</string>
+    <string name="control06_p01_sub11">11)No se considera riego a la inundación de la tierra por el desbordamiento incontrolado de los ríos, arroyos, lagunas, etc.</string>
+    <string name="control06_p01_sub12">12)Se considera superficie agrícola a las tierras sembradas con pastos naturales, en barbecho, en descanso, tierras agrícolas no trabajadas o sin uso.</string>
+    <string name="control06_p01_sub13">13) Tierra con cultivos permanentes, son tierras ocupadas con cultivos que tienen carácter de bienes raíces por su prolongado período de permanencia en él, así como por el elevado costo de instalación desde la siembra y primeros años de crecimiento, comprende los cultivos como melón, pepino, sandía, etc.</string>
+    <string name="control06_p01_sub14">14)Tierras con otros usos, son las tierras no clasificadas en alguna de las categorías anteriores, por ejemplo, las ocupadas por viviendas, instalaciones pecuarias, terrenos eriazos, descanso, caminos, etc. </string>
+    <string name="control06_p01_sub15">15) Si el productor/a responde que ha estudiado hasta transición, seleccione la alternativa "primaria incompleta".</string>
+
+    <string name="control06_p02">2. Relacionar los conceptos descritos en las preguntas presentadas: (5 puntos)</string>
+    <string name="control06_p02_sub01">1) Programa estatal o privado que brinda atención a los niños de 0 años hasta 3 años.</string>
+    <string name="control06_p02_sub02">2) Centro educativo estatal o privado que brinda atención a los niños de 3 hasta 5 años de edad.</string>
+    <string name="control06_p02_sub03">3) Programa que desarrolla INABIF y el Ministerio de Educación y tiene como objetivo brindar educación integral  a los niños de madres que trabajan</string>
+    <string name="control06_p02_sub04">4) Este programa atiende a niños de 0 a 2 años, donde realizan conjuntamente con la madre y/o padre una evaluación y seguimiento del desarrollo del niño en cada visita que realiza la promotora educativa.</string>
+    <string name="control06_p02_sub05">5) Programa nacional no escolarizado de educación inicial, de aprestamiento para la lecto-escritura, supervisado por el Ministerio de Educación.</string>
+
+    <string name="control06_p02_op01">1. PRONOEI</string>
+    <string name="control06_p02_op02">2. WAWA WASI</string>
+    <string name="control06_p02_op03">3. JARDÍN</string>
+    <string name="control06_p02_op04">4. CUNA GUARDERÍA </string>
+    <string name="control06_p02_op05">5. PIETBAF</string>
+
+    <!-- CONTROL 07-->
+
+    <string name="control07_p01">1. Relaciona las siguientes definiciones: (6 Puntos)</string>
+    <string name="control07_p01_sub01">1) Son granjas avícolas dedicadas a la crianza de aves reproductoras de línea especializada en la producción de huevos para consumo. Estas aves dan origen a las aves de postura. </string>
+    <string name="control07_p01_sub02">2) Son unidades pecuarias dedicadas a la crianza intensiva de aves (pollos de engorde, gallinas, gallos, patos y pavos), orientado a la producción de huevo y carne.</string>
+    <string name="control07_p01_sub03">3) Son granjas avícolas dedicadas a la crianza de aves reproductoras de línea especializada en la producción de carne. Estas aves dan origen a las aves de engorde </string>
+    <string name="control07_p01_sub04">4) Son granjas avícolas dedicadas a la crianza de aves reproductoras de líneas especializadas en la producción de carne.  </string>
+    <string name="control07_p01_sub05">5)Granjas avícolas dedicadas a la crianza de aves reproductoras de líneas especializadas en la producción de carne. Dentro de este rubro se tiene a los abuelos de engorde línea hembra que da origen a los padres de engorde hembras y a los abuelos de engorde línea machos que dan origen a los padres de engorde machos.</string>
+    <string name="control07_p01_sub06">6)Son granjas avícolas dedicadas a la crianza intensiva de pollos para la producción de carne.</string>
+
+    <string name="control07_p01_op01">1. Granja avícola de reproductores padres de engorde</string>
+    <string name="control07_p01_op02">2. Granja avícola de reproductores abuelos de engorde</string>
+    <string name="control07_p01_op03">3. Granja avícola de reproductores padres de postura </string>
+    <string name="control07_p01_op04">4. Granja avícola</string>
+    <string name="control07_p01_op05">5. Granja avícola de pavos reproductores de engorde</string>
+    <string name="control07_p01_op06">6. Granja avícola de pollo de engorde</string>
+
+    <string name="control07_p02">2.	Escriba  “V” si es verdadero ó “F” si es falso (14 puntos)</string>
+    <string name="control07_p02_sub01">1) Tenga en cuenta que las unidades agropecuarias trabajadas deben ser enviada todos los días, con el estado de envío “Abierto” o Cerrado”.</string>
+    <string name="control07_p02_sub02">2) Encuestador/a, copie la información exportada, que se encuentra contenida en la carpeta “ENA2017”, dicha carpeta se ubica en la memoria externa.</string>
+    <string name="control07_p02_sub03">3) Se denomina estrato especial a las unidades agropecuarias cuya condición jurídica son empresas, granjas avícolas y porcinas, establos lecheros, centros de engorde de ganado vacuno, granjas de cuyes y, por excepción, las personas naturales que poseen superficie no agrícola con cultivos de 50,0 hectáreas a más.</string>
+    <string name="control07_p02_sub04">4) La unidad agropecuaria del estrato espacial, se define como el terreno o conjunto de terrenos utilizados total o parcialmente para la producción agropecuaria incluyendo el ganado, conducidos como una unidad económica, por un productor/a agropecuario/a, siempre que estén ubicadas en el mismo DISTRITO.</string>
+    <string name="control07_p02_sub05">5) Respecto al código único de identificación, los números correspondientes al N° de parcela será 01 cuando se entrevista en la parcela y 00 cuando la entrevista se realiza fuera de ella (oficina). </string>
+    <string name="control07_p02_sub06">6) Persona jurídica, es la persona creada o reconocida por Ley, que tiene la facultad de contratar con terceros, independientemente de los miembros que la integran.  </string>
+    <string name="control07_p02_sub07">7) Registre cada una de las parcelas empezando por la de mayor superficie indicando el departamento y distrito.</string>
+    <string name="control07_p02_sub08">8)Centro de engorde vacuno, son unidades pecuarias con instalaciones apropiadas (corrales, comederos, bebederos, manga, balanza, etc.) que se dedican a la actividad de engorde del ganado vacuno para la producción de carne.</string>
+    <string name="control07_p02_sub09">9)Granja avícola de gallina de postura, son granjas avícolas dedicadas a la crianza de aves reproductoras de línea especializada en la producción de huevos para consumo, estas aves dan origen a las aves de postura.</string>
+    <string name="control07_p02_sub10">10)Granja avícola de reproductores abuelos de engorde, son granjas avícolas dedicadas a la crianza de aves reproductoras de línea especializada en la producción de carne, estas aves dan origen a las aves de engorde. </string>
+    <string name="control07_p02_sub11">11) Si la empresa o el productor/a tenía varios galpones y/o corrales el mes anterior (activo y/o inactivo) se debe contar solo los galpones y/o corrales activos.</string>
+    <string name="control07_p02_sub12">12) Sistema de alimentación automática, es un sistema donde se transfiere tareas de producción realizadas habitualmente por operarios humanos a un conjunto de elementos tecnológicos.</string>
+    <string name="control07_p02_sub13">13) El régimen de tenencia es la situación legal de la empresa o del productor/a agropecuario ante el Estado. Por lo tanto, el productor/a puede ser persona natural o persona jurídica.</string>
+    <string name="control07_p02_sub14">14) Se denomina Estrato Especial a las unidades agropecuarias que poseen superficie agrícola con cultivos con más de 10,0 hectáreas. </string>
+
+    <string name="verdadero">VERDADERO</string>
+    <string name="falso">FALSO</string>
+    <string name="nombre_menu">MENU CONTROL DE LECTURA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="cuestionario1_pregunta_5_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string-array name="cuestionario2_pregunta_2_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+    </string-array>
+
+    <string-array name="cuestionario3_pregunta_2_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <string-array name="cuestionario7_pregunta_1_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+
+    <!-- EVALUACION 01-->
+
+    <string name="eval01_p01">1.Marque la respuesta correcta con verdadero (V) o Falso (F), en cada alternativa.(2 puntos)</string>
+    <string name="eval01_p01_puntaje">2 puntos</string>
+    <string name="eval01_p01_txt">De la observación de los gráficos podemos concluir:</string>
+    <string name="eval01_p01_sub01">a)	Cuando Las líneas sufren una sobre posición, denotan la existencia de un cerro alto. </string>
+    <string name="eval01_p01_sub02">b)	Cuando las curvas se muestran más juntas, la pendiente en el terreno es menor.</string>
+    <string name="eval01_p01_sub03">c)	Las curvas totalmente abiertas representan las cumbres de las elevaciones. </string>
+    <string name="eval01_p01_sub04">d)	Las curvas de nivel son líneas acotadas imaginarias que representan la variación del
+relieve en el terreno.</string>
+
+    <string name="eval01_p02">2.	Parte del mapa distrital donde se registra el nombre del distrito, de la provincia y del departamento.(2 puntos) </string>
+    <string name="eval01_p02_puntaje">2 puntos</string>
+    <string name="eval01_p02_op01">a)	Distritos colindantes</string>
+    <string name="eval01_p02_op02">b)	Ubicación muestral</string>
+    <string name="eval01_p02_op03">c)	Ubicación geográfica</string>
+    <string name="eval01_p02_op04">d)	Membrete</string>
+    <string name="eval01_p02_op05">e)	Leyenda</string>
+
+    <string name="eval01_p03">3.	Según el dibujo; para la ubicación de un centro poblado, en muchas ocasiones la ubicación tiene que ver mucho con la elevación del terreno, por lo tanto mencionar el nombre de cada código que se encuentra en el paisaje. (2 puntos) </string>
+    <string name="eval01_p03_puntaje">2 puntos</string>
+    <string name="eval01_p03_op01">a)	Falda</string>
+    <string name="eval01_p03_op02">b)	Quebrada</string>
+    <string name="eval01_p03_op03">c)	Cima, cumbre, altura  </string>
+    <string name="eval01_p03_op04">d)   Pie de cerro  </string>
+
+
+    <string name="eval01_p04">4. Si se tiene un plano de imagen a escala 1/5,000 y se desea ubicar las coordenadas (N, E) del punto indicado en la imagen, Sabiendo que el intervalo de la cuadricula es 500 metros en el terreno y 50 centímetros en la imagen ¿Hallar la coordenada del punto B que se muestra en la imagen?.(3 puntos)</string>
+    <string name="eval01_p04_puntaje">3 puntos</string>
+    <string name="eval01_p04_op01">a)	372570 , 8488850</string>
+    <string name="eval01_p04_op02">b)	372075 , 8488615</string>
+    <string name="eval01_p04_op03">c)	372088 , 8488600</string>
+    <string name="eval01_p04_op04">d)   372566 , 8488608</string>
+
+    <string name="eval01_p05">5.	Para cada una de las afirmaciones siguientes escriba “V” si es verdadero o “F” si es falso, según corresponda (11 puntos)  </string>
+    <string name="eval01_p05_puntaje">11 puntos</string>
+    <string name="eval01_p05_sub01">1) Cartografía es la disciplina o técnica que se encarga de describir de manera detallada la superficie de un determinado terreno o territorio.</string>
+    <string name="eval01_p05_sub02">2) Cuenca es el territorio delimitado por línea de cumbres, también llamada divisoria de aguas, cuyas aguas fluyen a un mismo río, lago o mar.</string>
+    <string name="eval01_p05_sub03">3) Escala numérica, indica la distancia en el terreno.</string>
+    <string name="eval01_p05_sub04">4) Los límites del conglomerado están representados con una línea discontinua de color verde.</string>
+    <string name="eval01_p05_sub05">5) La orientación del terreno solo se puede realizar mediante los puntos cardinales y utilizando el norte magnético del croquis o imagen satelital del conglomerado. </string>
+    <string name="eval01_p05_sub06">6) La quebrada es una corriente de agua de menor cauce que un río, nace en las alturas y por lo general se une con otras corrientes de agua hasta formar un río.  </string>
+    <string name="eval01_p05_sub07">7) Si en el navegador GPS aparece un mensaje de colocar el navegador GPS en DEMO, no deberá aceptarlo.</string>
+    <string name="eval01_p05_sub08">8)La toponimia es el nombre con el que se conoce a cada accidente natural; cerro, quebrada, río, pampa; artificial; capital de distrito, anexo, caserío, comunidad, hito, canal de irrigación, puente, hacienda, etc. </string>
+    <string name="eval01_p05_sub09">9)Posterior al cálculo de área, el encuestador/a tomará un punto GPS al interior de la parcela (a 20 metros dentro de la parcela). </string>
+    <string name="eval01_p05_sub10">10)El diagrama de compilación, da cuenta de las fuentes cartográficas utilizadas para su elaboración. </string>
+    <string name="eval01_p05_sub11">11) La confluencia es la cordillera o ramal que separa las vertientes, haciendo que las aguas corran en direcciones opuestas en un territorio.</string>
+
+    <string-array name="eval01_pregunta_4_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <!-- EVALUACION 02-->
+
+    <string name="eval02_p01">1.	Para cada una de las afirmaciones siguientes marque Verdadero (V) o Falso (F), según corresponda.(16 puntos)</string>
+    <string name="eval02_p01_puntaje">16 puntos</string>
+    <string name="eval02_p01_sub01">1)Un objetivo específico de la encuesta es determinar el porcentaje de productores/as agropecuarios/as que realizan prácticas agrícolas y pecuarias adecuadas.</string>
+    <string name="eval02_p01_sub02">2) Parcela es todo terreno de la unidad agropecuaria, ubicado dentro de un mismo distrito, que tiene continuidad territorial con el resto de terrenos de la unidad agropecuaria.</string>
+    <string name="eval02_p01_sub03">3) La carga diaria de trabajo es de 3 unidades agropecuarias en promedio por día de operación de campo, en total trabajará 1 conglomerado que tiene 14 unidades agropecuarias.</string>
+    <string name="eval02_p01_sub04">4) Es prohibición del encuestador/a revelar datos de la encuesta, salvo a los funcionarios/as autorizados para ello.</string>
+    <string name="eval02_p01_sub05">5) El Doc.08.08 “plan de recorrido” se elaborará por triplicado para todo el periodo con las especificaciones de fechas de trabajo en las unidades agropecuarias de los conglomerados programados. </string>
+    <string name="eval02_p01_sub06">6) Doc.08.25 ANEXO A - Casuísticas, es el documento que contiene los casos representativos de los principales capítulos desde el 100 hasta el 1200. </string>
+    <string name="eval02_p01_sub07">7) El lote es todo terreno de la unidad agropecuaria, ubicado dentro de un mismo distrito, que no tiene continuidad territorial con el resto de terrenos de la unidad agropecuaria.</string>
+    <string name="eval02_p01_sub08">8) Preguntas de selección múltiple, en las que se puede seleccionar una o más alternativas, se caracterizan por los botones CIRCULARES para pulsar.</string>
+    <string name="eval02_p01_sub09">9)La hora de inicio debe ser considerada desde el momento que el encuestador/a se presenta con el productor/a en la unidad agropecuaria.</string>
+    <string name="eval02_p01_sub10">10)Cuando la entrevista se realiza usando un intérprete se registrará el idioma que habla el intérprete.</string>
+    <string name="eval02_p01_sub11">11)Para grabar la información que se está diligenciando, el grabado se realiza de tres formas. </string>
+    <string name="eval02_p01_sub12">12)Tenga presente que se debe escribir los apellidos y un solo nombre del productor/a agropecuario/a</string>
+    <string name="eval02_p01_sub13">13) El código único de identificación es: N° de conglomerado + N° de sea + N° de parcela</string>
+    <string name="eval02_p01_sub14">14)El encuestador/a visitará el centro poblado donde residen los productores/as ausentes las veces que sean necesarias hasta completar la entrevista, sin importar la distancia o lejanía.</string>
+    <string name="eval02_p01_sub15">15)La encuesta tendrá 6 días de operación de campo, 1 de viaje y 1 de descanso</string>
+    <string name="eval02_p01_sub16">16)El Perú es el quinto país más poblado de América Latina</string>
+
+    <string name="eval02_p02">2.	La muestra total de la Encuesta Nacional Agropecuaria es de: (2 puntos) </string>
+    <string name="eval02_p02_puntaje">2 puntos</string>
+    <string name="eval02_p02_op01">a)	30055 unidades agropecuarias</string>
+    <string name="eval02_p02_op02">b)	30710 unidades agropecuarias</string>
+    <string name="eval02_p02_op03">c)	29218 unidades agropecuarias</string>
+    <string name="eval02_p02_op04">d)	30492 unidades agropecuarias</string>
+    <string name="eval02_p02_op05">e)	30755 unidades agropecuarias</string>
+
+    <string name="eval02_p03">3.Las unidades de investigación estadística de la Encuesta Nacional Agropecuaria 2017 son las siguientes: (2 puntos) </string>
+    <string name="eval02_p03_puntaje">2 puntos</string>
+    <string name="eval02_p03_op01">a)	Unidad agropecuaria, parcela, animales y productor/a agropecuario</string>
+    <string name="eval02_p03_op02">b)	Unidad agropecuaria, parcela, lote, animales que cría</string>
+    <string name="eval02_p03_op03">c)	Parcela, productor/a agropecuario, animales de crianza</string>
+    <string name="eval02_p03_op04">d)	Unidad agropecuaria, parcela, productor/a agropecuario</string>
+    <string name="eval02_p03_op05">e)	Conglomerado, unidad agropecuaria, parcela, productor/a agropecuario</string>
+
+    <!-- EVALUACION 03-->
+
+    <string name="eval03_p01">1.	El productor Luis Flores, que actualmente tiene 65 años, nos declara que desde los 20 años hasta los 37 años trabajó como productor agropecuario independiente en Huancayo, lo dejó para trabajar como obrero en Lima y desde que se jubiló hace 6 años conduce su unidad agropecuaria en el distrito de Chupaca donde es entrevistado. Entonces ¿Cómo se diligenciará la pregunta 101?(3 puntos) </string>
+    <string name="eval03_p01_sub1"> P. 101. ¿CUÁNTOS AÑOS SE DEDICA DE MANERA INDEPENDIENTE A LA ACTIVIDAD AGROPECUARIA?</string>
+    <string name="eval03_p01_puntaje">3 puntos</string>
+
+    <string name="eval03_p02">2.	Siendo la superficie de la parcela de 6,5 hectáreas, conducida por el productor entrevistado al partir con la activa participación del dueño de la parcela , quienes acordaron una repartición de la producción del  60 por ciento para el dueño de la parcela y el 40 por ciento para el productor entrevistado ¿Cuánto de superficie registrará el encuestador en la pregunta 105? (3 puntos)  </string>
+    <string name="eval03_p02_sub1">Superficie de la Parcela</string>
+    <string name="eval03_p02_sub2">105 ¿CUÁL ES LA SUPERFICIE TOTAL DE CADA UNA DE LAS PARCELAS O CHACRAS QUE TRABAJÓ O CONDUJO EN LOS ULTIMOS 12 MESES (incluya barbecho, descanso, montes y bosques, etc.)?</string>
+    <string name="eval03_p02_puntaje">3 puntos</string>
+
+
+    <string name="eval03_p03"> 3.	Relacionar los conceptos descritos con las alternativas(4 puntos)</string>
+    <string name="eval03_p03_puntaje">4 puntos</string>
+    <string name="eval03_p03_sub01">Actividad destinada a la producción de cultivos transitorios tales como papa amarilla, maíz amiláceo, tomate, etc., o permanentes como manzano, plátano, café pergamino, etc.</string>
+    <string name="eval03_p03_sub02">Corresponde a la utilización de terrenos sin ningún tipo de acuerdo con terceros, simplemente el productor/a ocupó la tierra y comenzó a explotarla.</string>
+    <string name="eval03_p03_sub03">Es la forma como el productor/a posee o usufructúa la tierra. Es el derecho que tiene el productor/a para cultivar o disponer de la tierra. </string>
+    <string name="eval03_p03_sub04">Es el productor/a de la parcela que posee título de propiedad, el que está adquiriendo por el sistema de alquiler – venta, adjudicación, herencia, etc. </string>
+
+    <string name="eval03_p03_op01">1. Propietario</string>
+    <string name="eval03_p03_op02">2. Actividad Agrícola</string>
+    <string name="eval03_p03_op03">3. Posesionario/a</string>
+    <string name="eval03_p03_op04">4. Régimen de Tenencia</string>
+
+    <string-array name="eval03_pregunta_3_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string name="eval03_p04">4.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(10 puntos)</string>
+    <string name="eval03_p04_puntaje">10 puntos</string>
+    <string name="eval03_p04_sub01">1) Es muy importante que la entrevista sea realizada al productor/a agropecuario/a y que se lleve a cabo solo en una de las parcelas que conforman la unidad agropecuaria seleccionada </string>
+    <string name="eval03_p04_sub02">2) Si la unidad agropecuaria tiene parcelas en varios centros poblados, pero dentro del mismo distrito, entonces indicar el centro poblado que tenga más parcelas.</string>
+    <string name="eval03_p04_sub03">3) La hora de inicio de la entrevista debe ser considerada desde el momento que el encuestador/a se presenta con el productor/a en su vivienda. La hora de término al momento que se retira de la unidad agropecuaria.</string>
+    <string name="eval03_p04_sub04">4) Cuando la entrevista se realiza usando un intérprete se registrará el idioma que habla el productor/a </string>
+    <string name="eval03_p04_sub05">5) En la pregunta 12 de la carátula “La información fue proporcionada por”, se indica el TIPO de informante NO EL NOMBRE de quién da la información. </string>
+    <string name="eval03_p04_sub06">6) En la pregunta 104 superficie total de la unidad agropecuaria, se deben considerar todas las parcelas que estuvieron a cargo del productor/a en los últimos 12 meses. </string>
+    <string name="eval03_p04_sub07">7) Si la superficie registrada en la pregunta 105 está dada en una unidad de medida diferente a Hectárea, el encuestador/a deberá hacer la conversión correspondiente.</string>
+    <string name="eval03_p04_sub08">8)La orientación de siembra es cuando el cultivo ha sido sembrado como única especie en una superficie determinada o parcela. </string>
+    <string name="eval03_p04_sub09">9)La aspersión es el sistema de riego que posibilita aplicar el agua en forma de lluvia fina y suave. Se le considera riego localizado porque esparce la humedad en la zona radicular de la planta.</string>
+    <string name="eval03_p04_sub10">10)La pérdida en superficie es cuando un área determinada es afectada por eventos inesperados como desastres naturales (inundaciones, huaycos, entre otros), de forma tal que se pierde el “activo tierra”. </string>
+
+    <!-- EVALUACION 04-->
+
+
+    <string name="eval04_p01">1.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(10 puntos)</string>
+    <string name="eval04_p01_puntaje">10 puntos</string>
+    <string name="eval04_p01_sub01">1)Derivados agrícolas son los residuos de los cultivos que se generan durante la producción agrícola como chala de maíz, paja de trigo, etc.</string>
+    <string name="eval04_p01_sub02">2) Evaluación de plagas, consiste en monitorear la población de insectos dentro del campo de cultivo, la evaluación es una tarea periódica, pues la población de insectos es dinámica debido a los constantes cambios que se producen en el medio ambiente (clima, crecimiento del cultivo, enemigos naturales, etc.).</string>
+    <string name="eval04_p01_sub03">3) La aplicación del manejo integrado de plagas, implica necesariamente que el productor/a emplee en su unidad agropecuaria, un solo tipo de control.</string>
+    <string name="eval04_p01_sub04">4) Semillero, lugar con infraestructura e instalaciones especializadas destinadas a la producción de plantines o plantones (germinación y crecimiento) para su trasplante posterior en plantaciones y repoblaciones forestales.</string>
+    <string name="eval04_p01_sub05">5) Gasto en fertilizantes es el gasto efectuado por la compra de productos químicos utilizados para la fertilización del suelo, tales como: urea, fosfato diamónico, cloruro de potasio, etc. </string>
+    <string name="eval04_p01_sub06">6) Arar o voltear la tierra es la acción de deshacer o desmoronar los terrones para facilitar el crecimiento y penetración de las raíces en el suelo, así como la distribución del agua. </string>
+    <string name="eval04_p01_sub07">7) Los predadores son insectos que viven a expensas de otro insecto (hospedero) al que devoran progresivamente hasta causarle la muerte.</string>
+    <string name="eval04_p01_sub08">8)Registro del uso de abonos, se refiere a registrar o anotar todos los datos correspondientes al tipo de abono, fecha de aplicación, cantidad aplicada, etc.</string>
+    <string name="eval04_p01_sub09">9)Plaguicida químico, son sustancias orgánicas destinadas básicamente a matar, repeler, atraer, regular o interrumpir el crecimiento de seres vivos considerados plagas.</string>
+    <string name="eval04_p01_sub10">10)La mochila de fumigación califica como equipo de protección para la aplicación de plaguicidas.</string>
+
+
+    <string name="eval04_p02">2.	Relacionar los conceptos descritos con las alternativas(5 puntos)</string>
+    <string name="eval04_p02_puntaje">5 puntos</string>
+    <string name="eval04_p02_sub01">1) Es la práctica que consiste en la represión de las plagas mediante sus enemigos naturales. </string>
+    <string name="eval04_p02_sub02">2) Comprende las técnicas más antiguas y simples de la lucha contra los insectos.</string>
+    <string name="eval04_p02_sub03">3) Consiste en la utilización de las prácticas agrícolas ordinarias, o algunas modificaciones de ellas, con el propósito de contribuir a prevenir los ataques de los insectos.</string>
+    <string name="eval04_p02_sub04">4) Consiste en la utilización de métodos de represión que aprovechan las reacciones del comportamiento de los insectos.  </string>
+    <string name="eval04_p02_sub05">5)Consiste en la utilización de la temperatura, humedad, insolación, fotoperiodismo y radiaciones electromagnéticas, en intensidades que resulten letales para los insectos.</string>
+
+    <string name="eval04_p02_op01">1. Control mecánico</string>
+    <string name="eval04_p02_op02">2. Control etológico</string>
+    <string name="eval04_p02_op03">3. Control físico </string>
+    <string name="eval04_p02_op04">4. Control cultural</string>
+    <string name="eval04_p02_op05">5. Control biológico</string>
+
+    <string-array name="eval04_pregunta_2_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string name="eval04_p03">3.Las siguientes definiciones corresponden a: Completar con la respuesta correcta(5 puntos) </string>
+    <string name="eval04_p03_puntaje">5 puntos</string>
+    <string name="eval04_p03_sub01">a)	Consiste en lavar inmediatamente el envase del plaguicida, después de hacer uso de su contenido, con tres enjuagues consecutivos, durante 30 segundos.</string>
+    <string name="eval04_p03_sub02">b)	Es la persona que posee los conocimientos técnicos necesarios en materia agrícola, para determinar la aplicación de abonos, fertilizantes y/o plaguicidas, en determinada superficie y cultivo </string>
+    <string name="eval04_p03_sub03">c)	Se refiere a registrar o anotar todos los datos correspondientes al tipo de plaguicidas, fecha de aplicación, cantidad aplicada, etc.</string>
+    <string name="eval04_p03_sub04">d)	Es el número mínimo de días que debe transcurrir entre la aplicación del plaguicida y la cosecha del producto. </string>
+    <string name="eval04_p03_sub05">e)	Consiste en monitorear la población de insectos dentro del campo de cultivo.</string>
+
+    <string name="eval04_p03_op01">1. Especialista</string>
+    <string name="eval04_p03_op02">2. Evaluación de plagas</string>
+    <string name="eval04_p03_op03">3. Período de carencia </string>
+    <string name="eval04_p03_op04">4. Registro del uso de plaguicidas</string>
+    <string name="eval04_p03_op05">5. Triple lavado</string>
+
+    <string-array name="eval04_pregunta_3_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <!-- EVALUACION 05-->
+
+
+    <string name="eval05_p01">1.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(12 puntos)</string>
+    <string name="eval05_p01_puntaje">12 puntos</string>
+    <string name="eval05_p01_sub01">1)Periodo de carencia tiempo indispensable que debe transcurrir para el consumo de la carne, leche o huevos de los animales a quienes se les han aplicado vacunas y/o medicamentos, para evitar riesgos de salud en los consumidores/as. </string>
+    <string name="eval05_p01_sub02">2) Cuarto no adecuado cuando los alimentos producidos son acopiados sin cubierta de infraestructura alguna (al aire libre).</string>
+    <string name="eval05_p01_sub03">3) Certificación orgánica, es el proceso de control que permite verificar el cumplimiento de la Norma de Producción Orgánica que corresponda según el destino del producto, para garantizar la calidad orgánica de las producciones bajo certificación.</string>
+    <string name="eval05_p01_sub04">4) TNC (tesco natural choice), es una certificación de producto, también es un sello de garantía que funciona como distintivo positivo ofreciendo al consumidor seguridad acerca de los valores éticos del producto.</string>
+    <string name="eval05_p01_sub05">5) La certificación son los diplomas o cartas de reconocimientos que productores/as manifiestan haber recibido por parte de la municipalidad o gobierno regional por la calidad de sus productos. </string>
+    <string name="eval05_p01_sub06">6) La brucelosis caprina también es conocida como “Fiebre malta”. </string>
+    <string name="eval05_p01_sub07">7) Al carbunco sintomático también se le conoce como “Pierna negra” o “Gangrena enfisematosa”.</string>
+    <string name="eval05_p01_sub08">8)Si el productor/a agropecuario/a manifiesta tener ganado black belly, entonces se deberá considerar dentro de la especie “ovinos”.</string>
+    <string name="eval05_p01_sub09">9)Newcastle, enfermedad de origen viral que afecta el tracto respiratorio, digestivo o nervioso de las aves, causando muerte en las aves que no han sido protegidas mediante la vacunación.</string>
+    <string name="eval05_p01_sub10">10)Aplicar medicamentos consiste en aplicar sustancias biológicas con la finalidad de controlar las enfermedades que presentan los animales, ejemplo: antibióticos, antiparasitarios, antiinflamatorios.</string>
+    <string name="eval05_p01_sub11">11)Rotación de praderas, consiste en trasladar el ganado de un lugar a otro; esto con la finalidad de que el área pastoreada se recupere para la siguiente temporada. </string>
+    <string name="eval05_p01_sub12">12)Establecimiento comercial, es todo local dedicado a la comercialización de insumos para la actividad agropecuaria, autorizado para funcionar como tal.</string>
+
+
+    <string name="eval05_p02">2.	Cuál de las siguientes características no corresponde a la definición de Actividad pecuaria de la Encuesta Nacional Agropecuaria(2 puntos)</string>
+    <string name="eval05_p02_puntaje">2 puntos</string>
+    <string name="eval05_p02_op01">a.	Productor/a manifiesta que cría porcinos para la venta.</string>
+    <string name="eval05_p02_op02">b.	Productor/a manifiesta que cría equinos para carga.</string>
+    <string name="eval05_p02_op03">c.	Productor/a manifiesta que cría cuyes para autoconsumo.</string>
+    <string name="eval05_p02_op04">d.	Productor/a manifiesta que cría ganado vacuno para producción de leche</string>
+    <string name="eval05_p02_op05">e.	Ninguna de las anteriores</string>
+
+    <string name="eval05_p03">3.	Las siguientes definiciones corresponden a: (6 puntos)</string>
+    <string name="eval05_p03_puntaje">6 puntos</string>
+    <string name="eval05_p03_sub01">1) Si aplica una vacuna en el ala del ave se trata para prevenir: </string>
+    <string name="eval05_p03_sub02">2) Profesional capacitado para mejorar la producción animal, así como sus subproductos y derivados.</string>
+    <string name="eval05_p03_sub03">3) Si aplica una vacuna en el ojo del ave se trata de:</string>
+    <string name="eval05_p03_sub04">4) Animales que cruzados entre sí, siempre dan descendientes con el mismo patrón definido, es decir presentan las mismas características de producción y aspecto físico.</string>
+    <string name="eval05_p03_sub05">5)Profesional dedicado a tratar enfermedades en animales.</string>
+    <string name="eval05_p03_sub06">6)Animales que debido al cruzamiento de sus progenitores con animales superiores presentan parámetros productivos superiores.</string>
+
+
+    <string name="eval05_p03_op01">1. Raza pura</string>
+    <string name="eval05_p03_op02">2. Mejorados</string>
+    <string name="eval05_p03_op03">3. Médico veterinario </string>
+    <string name="eval05_p03_op04">4. Newcastle</string>
+    <string name="eval05_p03_op05">5. Ingeniero zootecnista</string>
+    <string name="eval05_p03_op06">6. “Viruela”</string>
+
+    <string-array name="eval05_pregunta_3_opciones">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+
+    <!-- EVALUACION 06-->
+
+
+    <string name="eval06_p01">1.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(12 puntos)</string>
+    <string name="eval06_p01_puntaje">12 puntos</string>
+    <string name="eval06_p01_sub01">1)Diarios, es un documento que contiene información sobre productos o servicios, y los términos en los que se pueden adquirir.</string>
+    <string name="eval06_p01_sub02">2) Comité, es la organización de personas naturales o jurídicas, o de ambas, dedicada a la recaudación pública de aportes destinados a una finalidad altruista.</string>
+    <string name="eval06_p01_sub03">3) Tenga presente que existe un seguro agropecuario que promueve el Seguro Social de Salud del Perú (EsSalud), el cual está al alcance de todas las personas que se dedican a la actividad agropecuaria y es exclusivamente para proteger la salud del productor/a, se da siempre y cuando el productor/a lo solicite; este seguro médico se considera en el estudio.</string>
+    <string name="eval06_p01_sub04">4) Si el productor/a menciona que sus parcelas fueron trabajadas bajo el sistema Ayni, no debe efectuarse valorización alguna en el ítem 2 “pago a jornaleros o peones”. </string>
+    <string name="eval06_p01_sub05">5) Si el productor/a manifiesta que obtuvo crédito una parte en efectivo y otra parte en insumos agrícolas, considere que no recibió crédito. </string>
+    <string name="eval06_p01_sub06">6) Recuerde que los gastos generados en la etapa de comercialización de cultivos y animales de crianza se consideran en el capítulo 1000. </string>
+    <string name="eval06_p01_sub07">7) Agencia agraria, es la dependencia de la dirección regional agraria encargada de efectuar en su respectiva circunscripción territorial las acciones del gobierno regional en materia agraria.</string>
+    <string name="eval06_p01_sub08">8)La cantidad producida, es la cantidad y calidad de bienes agropecuarios que pueden ser adquiridos en el mercado por un consumidor o por el conjunto de consumidores, en un momento determinado.</string>
+    <string name="eval06_p01_sub09">9)El periodo de referencia del capítulo 700 son los últimos 3 años y los últimos 12 meses.</string>
+    <string name="eval06_p01_sub10">10)Recuerde que si el productor/a agropecuario/a responde la alternativa “empresa privada”, no es necesario especificar el nombre de la empresa.</string>
+    <string name="eval06_p01_sub11">11)Centro de acopio o almacén para cosecha, permite reducir el contenido de humedad de los granos hasta un nivel que impida el crecimiento de los hongos, de tal forma que preserve su aspecto, su calidad nutritiva y la viabilidad de la semilla.  </string>
+    <string name="eval06_p01_sub12">12)Organismo no gubernamental, es una entidad privada y por tanto independiente de la administración pública, que surge a partir de la iniciativa ciudadana para el beneficio de la comunidad y sin fines lucrativos. </string>
+
+
+    <string name="eval06_p02">2.	Cuál de las siguientes características no corresponde a la definición de Actividad pecuaria de la Encuesta Nacional Agropecuaria(2 puntos)</string>
+    <string name="eval06_p02_puntaje">2 puntos</string>
+    <string name="eval06_p02_op01">a.	Productor/a manifiesta que cría porcinos para la venta.</string>
+    <string name="eval06_p02_op02">b.	Productor/a manifiesta que cría cuyes para autoconsumo</string>
+    <string name="eval06_p02_op03">c.	Productor/a manifiesta que cría ganado vacuno para producción de leche. </string>
+    <string name="eval06_p02_op04">d.	Productor/a manifiesta que cría equinos para carga</string>
+    <string name="eval06_p02_op05">e.	Ninguna de las anteriores</string>
+
+    <string name="eval06_p03">3.	Las siguientes definiciones corresponden a: (6 puntos)</string>
+    <string name="eval06_p03_puntaje">6 puntos</string>
+    <string name="eval06_p03_sub01">1) Es la acción y efecto de asociar o asociarse (unir una persona a otra para que colabore en algún trabajo, con el mismo fin). </string>
+    <string name="eval06_p03_sub02">2) Es una asociación autónoma de personas que se han unido voluntariamente para obtener un beneficio.</string>
+    <string name="eval06_p03_sub03">3) Es la organización de personas naturales o jurídicas, o de ambas, dedicada a la recaudación pública de aportes destinados a una finalidad altruista.</string>
+    <string name="eval06_p03_sub04">4) Lugares especiales para almacenar granos y forrajes.</string>
+    <string name="eval06_p03_sub05">5)Permite reducir el contenido de humedad de los granos hasta un nivel que impida el crecimiento de los hongos, de tal forma que preserve su aspecto, su calidad nutritiva y la viabilidad de la semilla. </string>
+    <string name="eval06_p03_sub06">6)Son recipientes o cajones de madera, con orificios en el fondo y a los lados para la salida de la baba o líquidos que se desprenden del mucílago del cacao.</string>
+
+
+    <string name="eval06_p03_op01">1. Comité</string>
+    <string name="eval06_p03_op02">2. Almacén para granos y forrajes</string>
+    <string name="eval06_p03_op03">3. Secadores </string>
+    <string name="eval06_p03_op04">4. Asociación</string>
+    <string name="eval06_p03_op05">5. Fermentadores</string>
+    <string name="eval06_p03_op06">6. Cooperativa</string>
+
+    <!-- EVALUACION 07-->
+
+
+    <string name="eval07_p01">1.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(13 puntos)</string>
+    <string name="eval07_p01_puntaje">13 puntos</string>
+    <string name="eval07_p01_sub01">1)Producción normal, cuando el productor/a considera que su producción fue muy buena, más de la esperada.</string>
+    <string name="eval07_p01_sub02">2) Tenga presente que discapacidad es lo mismo que enfermedad.</string>
+    <string name="eval07_p01_sub03">3) Por salinidad, erosión o mal drenaje, cuando el productor/a decide no sembrar debido a que la parcela ha quedado muy afectada por el exceso de lluvias o riegos pesados lo que generan salinidad, erosión y si no hay buena nivelación del terreno conllevan a un mal drenaje.</string>
+    <string name="eval07_p01_sub04">4) Tierras agrícolas sin uso, comprenden las tierras ocupadas por árboles y/o arbustos de diversas alturas (matorrales) que crecen en forma natural, pudiendo tener algún valor como madera, leña u otros. </string>
+    <string name="eval07_p01_sub05">5) Superior universitaria, es el año o grado de estudios más alto aprobado por cada persona dentro del nivel de educación regular al que pertenece.  </string>
+    <string name="eval07_p01_sub06">6) No registre a las personas que residen habitualmente en el extranjero y se encuentran de visita temporalmente en la vivienda. En este caso, no importa el número de días que permanecen con el productor/a. </string>
+    <string name="eval07_p01_sub07">7) En la pregunta 1104 ¿Qué edad tiene en años cumplidos?, recuerde que si ingresó información en “AÑOS”, también debe existir información en “MESES” y viceversa. </string>
+    <string name="eval07_p01_sub08">8) Si el productor/a responde que ha estudiado hasta transición, seleccione la alternativa "primaria completa".</string>
+    <string name="eval07_p01_sub09">9)Tierra en barbecho, son tierras agrícolas con más de un año sin uso que se dejan de trabajar por voluntad del productor/a, en un periodo suficiente para restablecer su fertilidad y poder cultivarlas nuevamente.</string>
+    <string name="eval07_p01_sub10">10)Si tiene más de 98 años, registre 98, es decir si declara que tiene 101 años, registre 98 en el recuadro correspondiente y en observaciones registre la edad real.</string>
+    <string name="eval07_p01_sub11">11)Producción baja, cuando el productor/a considera que su producción es mala, no es rentable, es una pérdida.</string>
+    <string name="eval07_p01_sub12">12)PIETBAF, es el programa nacional no escolarizado de educación inicial, de aprestamiento para la lecto-escritura, supervisado por el Ministerio de Educación, ubicado principalmente en áreas periféricas de las ciudades y son conducidos por animadores de educación. </string>
+    <string name="eval07_p01_sub13">13)"Padres o suegros/as", no considere en esta alternativa al padrastro o madrastra. </string>
+
+
+    <string name="eval07_p02">2.	Cuál de las siguientes características no corresponde a la definición de superficie agrícola(2 puntos)</string>
+    <string name="eval07_p02_puntaje">2 puntos</string>
+    <string name="eval07_p02_op01">a.	Tierras sembradas </string>
+    <string name="eval07_p02_op02">b.	Tierras en barbecho </string>
+    <string name="eval07_p02_op03">c.	Tierras en descanso</string>
+    <string name="eval07_p02_op04">d.	Tierras con pastos naturales</string>
+    <string name="eval07_p02_op05">e.	Ninguna de las anteriores</string>
+
+    <string name="eval07_p03">3.	Las siguientes definiciones corresponden a: (5 puntos)</string>
+    <string name="eval07_p03_puntaje">5 puntos</string>
+    <string name="eval07_p03_sub01">1)Programa estatal o privado que brinda atención a los niños de 0 años hasta 3 años. </string>
+    <string name="eval07_p03_sub02">2) Programa que desarrolla INABIF y el Ministerio de Educación y tiene como objetivo brindar educación integral  a los niños de madres que trabajan</string>
+    <string name="eval07_p03_sub03">3)Programa nacional no escolarizado de educación inicial, de aprestamiento para la lecto-escritura, supervisado por el Ministerio de Educación.</string>
+    <string name="eval07_p03_sub04">4) Este programa atiende a niños de 0 a 2 años, donde realizan conjuntamente con la madre y/o padre una evaluación y seguimiento del desarrollo del niño en cada visita que realiza la promotora educativa.</string>
+    <string name="eval07_p03_sub05">5)Centro educativo estatal o privado que brinda atención a los niños de 3 hasta 5 años de edad. </string>
+
+
+    <string name="eval07_p03_op01">1. PRONOEI</string>
+    <string name="eval07_p03_op02">2. CUNA GUARDERÍA </string>
+    <string name="eval07_p03_op03">3. WAWA WASI </string>
+    <string name="eval07_p03_op04">4. JARDÍN</string>
+    <string name="eval07_p03_op05">5. PIETBAF</string>
+
+
+    <!-- EVALUACION FINAL-->
+
+
+    <string name="evalfinal_p01">1.	Cuál de las siguientes características no corresponde a la definición de superficie agrícola(2 puntos)</string>
+    <string name="evalfinal_p01_puntaje">2 puntos</string>
+    <string name="evalfinal_p01_op01">a)	20 metros y 5 barras</string>
+    <string name="evalfinal_p01_op02">b)	10 metros y 5 barras</string>
+    <string name="evalfinal_p01_op03">c)	15 metros y 3 barras</string>
+    <string name="evalfinal_p01_op04">d)	15 metros y 5 barras</string>
+
+    <string name="evalfinal_p02">2.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(12 puntos)</string>
+    <string name="evalfinal_p02_puntaje">12 puntos</string>
+    <string name="evalfinal_p02_sub01">1)El pago a jornaleros o peones eventuales, corresponde al pago de la mano de obra contratada de forma eventual sea hombre o mujer que viene trabajando en la unidad agropecuaria por un periodo menor de 12 meses.</string>
+    <string name="evalfinal_p02_sub02">2) Parcela es todo terreno de la unidad agropecuaria, ubicado dentro de un mismo distrito, que tiene continuidad territorial con el resto de terrenos de la unidad agropecuaria.</string>
+    <string name="evalfinal_p02_sub03">3) La carga diaria de trabajo es de 3 unidades agropecuarias en promedio por día de operación de campo, en total trabajará 1 conglomerado que tiene 14 unidades agropecuarias.</string>
+    <string name="evalfinal_p02_sub04">4) POR EXCEPCIÓN, si al encuestador/a le corresponde entrevistar a un productor/a pecuario/a con tierras lo buscará en su domicilio, a fin de aplicarle el cuestionario electrónico Doc.01.03. </string>
+    <string name="evalfinal_p02_sub05">5) Periodo de carencia tiempo indispensable que debe transcurrir para el consumo de la carne, leche o huevos de los animales a quienes se les han aplicado vacunas y/o medicamentos, para evitar riesgos de salud en los consumidores/as.   </string>
+    <string name="evalfinal_p02_sub06">6) Cuarto no adecuado cuando los alimentos producidos son acopiados sin cubierta de infraestructura alguna (al aire libre). </string>
+    <string name="evalfinal_p02_sub07">7) Tierras agrícolas sin uso, comprenden las tierras ocupadas por árboles y/o arbustos de diversas alturas (matorrales) que crecen en forma natural, pudiendo tener algún valor como madera, leña u otros. </string>
+    <string name="evalfinal_p02_sub08">8) Para el caso de las tierras al partir con exclusiva participación del productor/a seleccionado (el dueño de las tierras no interviene en su producción), se registra para el productor/a el total de la superficie sembrada.</string>
+    <string name="evalfinal_p02_sub09">9)Si los cultivos transitorios fueron sembrados fuera del periodo de referencia (últimos 12 meses), pero la cosecha de estos cultivos fue en los últimos 12 meses, entonces estos cultivos no serán registrados por que su siembra esta fuera del periodo de referencia.</string>
+    <string name="evalfinal_p02_sub10">10)Tierra en barbecho, son tierras agrícolas con más de un año sin uso que se dejan de trabajar por voluntad del productor/a, en un periodo suficiente para restablecer su fertilidad y poder cultivarlas nuevamente.</string>
+    <string name="evalfinal_p02_sub11">11)La hora de inicio debe ser considerada desde el momento que el encuestador/a se presenta con el productor/a en la unidad agropecuaria. La hora de término al momento que se retira de la unidad agropecuaria.</string>
+    <string name="evalfinal_p02_sub12">12)No realizo actividad, es aquella unidad agropecuaria que por un periodo mayor a los últimos 10 meses no está siendo trabajada  por un productor/a agropecuario/a, pero en cualquier momento puede ser trabajada. </string>
+
+
+    <string name="evalfinal_p03">3.	Para cada afirmación siguiente marque Verdadero (V) o Falso (F):(2 puntos)</string>
+    <string name="evalfinal_p03_puntaje">2 puntos</string>
+    <string name="evalfinal_p03_sub01">1)Número de Conglomerado (5 dígitos)	+	Número de parcela(2 dígitos)	+	Número de Selección de la UA(5 dígitos)</string>
+    <string name="evalfinal_p03_sub02">1)Número de Conglomerado (5 dígitos)	+	Número de parcela(2 dígitos)	+	Número de Selección de la UA(5 dígitos)</string>
+    <string name="evalfinal_p03_sub03">1)Número de Conglomerado (5 dígitos)	+	Número de parcela(2 dígitos)	+	Número de Selección de la UA(5 dígitos)</string>
+
+    <string name="evalfinal_p04">4.	¿Cuál de las siguientes tareas no corresponde a las tareas durante la operación de campo? (2 puntos)  </string>
+    <string name="evalfinal_p04_puntaje">2 puntos</string>
+    <string name="evalfinal_p04_op01">a)	Coordinar e informar a las autoridades de los centros poblados que conforman el conglomerado, sobre su labor, el tiempo estimado de permanencia en el lugar y solicitarles el apoyo necesario Doc. 03.03 “Listado de unidades agropecuarias seleccionadas en el conglomerado”</string>
+    <string name="evalfinal_p04_op02">b)	Reconocer, ubicar e identificar el conglomerado asignado con ayuda de los documentos cartográficos y listados. Para ello, debe reconocer sus límites.</string>
+    <string name="evalfinal_p04_op03">c)	Recorrer SEA por SEA en forma ordenada e inicie la encuesta con la toma de información de la primera unidad agropecuaria que identifique con ayuda del productor/a.</string>
+    <string name="evalfinal_p04_op04">d)	Reconocer para elaborar el Doc.08.08 “Plan de recorrido” se elaborará por triplicado para todo el periodo con las especificaciones de fechas de trabajo en las unidades agropecuarias de los conglomerados programados</string>
+    <string name="evalfinal_p04_op05">e)	Realizar una copia de respaldo (Backup) de la información recopilada en el cuestionario electrónico Doc.01.03 o Doc. 01.03A. </string>
+
+
+    <string name="evalfinal_p05">5.	Completar el enunciado:  </string>
+    <string name="evalfinal_puntaje">1 punto c/u</string>
+
+    <string name="evalfinal_p05_sub1">5.	¿Cuál de las siguientes tareas no corresponde a las tareas durante la operación de campo? (2 puntos)    </string>
+    <string name="evalfinal_p05_sub01">Pregunta 219 ¿CUAL FUE/SERÁ LA PRODUCCIÓN TOTAL DE PALTO, QUE COSECHÓ/ COSECHARÁ DE ________________ A _______________? </string>
+    <string name="evalfinal_p05_sub02">Pregunta 224 ¿CUANTA PRODUCCIÓN DE PALTO, COSECHÓ DE ____________ A _____________?.</string>
+
+    <string name="evalfinal_p05_op01">a)	Julio 2016 a junio 2017; julio  2016 a junio 2017</string>
+    <string name="evalfinal_p05_op02">b)	Julio  2017  a septiembre 2017</string>
+    <string name="evalfinal_p05_op03">c)	Junio  2016 a agosto 2016; julio 2016 a agosto 2016</string>
+    <string name="evalfinal_p05_op04">d)	Mayo  2016 a agosto 2016; julio 2016 a agosto 2016</string>
+    <string name="evalfinal_p05_op05">e)	 Julio 2016 a agosto 2016 </string>
+
+
+    <string name="title_activity_cuestionario4">Cuestionario4Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_eval3">Eval3Activity</string>
+    <string name="title_activity_eval4">Eval4Activity</string>
+    <string name="title_activity_eval5">Eval5Activity</string>
+    <string name="title_activity_eval6">Eval6Activity</string>
+    <string name="title_activity_eval7">Eval7Activity</string>
+    <string name="title_activity_usuario_sqlite_helper">UsuarioSqliteHelper</string>
+    <string name="title_activity_data_base_manager">DataBaseManager</string>
+
+
+</resources>

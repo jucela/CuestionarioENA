@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pe.gob.inei.cuestionarioena">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_splash"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo_splash"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".MenuActivity"
+            android:parentActivityName=".LoginActivity"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LoginActivity" />
+        </activity>
+        <activity
+            android:name=".Cuestionario1Activity"
+            android:parentActivityName=".MenuActivity"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MenuActivity" />
+        </activity>
+        <activity
+            android:name=".Cuestionario2Activity"
+            android:parentActivityName=".MenuActivity"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MenuActivity" />
+        </activity>
+        <activity
+            android:name=".Cuestionario3Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Eval1Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Eval2Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Cuestionario4Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Cuestionario5Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Cuestionario6Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Cuestionario7Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Eval3Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Eval4Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Eval5Activity"
+            android:label="@string/title_activity_eval5"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Eval6Activity"
+            android:label="@string/title_activity_eval6"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Eval7Activity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".EvalFinalActivity" />
+
+    </application>
+
+</manifest>
